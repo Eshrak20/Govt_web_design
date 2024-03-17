@@ -28,18 +28,21 @@ margin-right:10px ;
 }
 .nav_div_1{
     display: flex;
+    justify-content: space-between;
 }
 .nav_lists{
     list-style: none;
     display: flex;
+    padding: 0;
 }
 .feedback-header {
     background-color: #70bf42;
     color: white;
     float: left;
-    padding: 7px 15px;
+    padding: 15px 15px ;
     font-weight: bold;
-/* font-size: 20px; */
+    /* text-align: center; */
+    /* font-size: 20px; */
 
 }
 .custom-hr-2{
@@ -47,4 +50,8 @@ margin-right:10px ;
         width: 1px;
         background-color: #fff;
         margin: 0;
+}
+.nav_div_2{
+    display: inline-block;
+    justify-content: center;
 }
