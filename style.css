@@ -55,3 +55,24 @@ margin-right:10px ;
     display: inline-block;
     justify-content: center;
 }
+.search_box{
+    /* height: 100px; */
+    width: 550px;
+    border: 1px solid #ccc;
+    padding: 8px 6px;
+    border-radius: 5px;
+    color: #777;
+    background: #fff;
+    max-width: 100%;
+    display: block;
+    outline: none;
+    margin-right: 5px;
+}
+.search_form_flex{
+    display: flex;
+    margin-top: 15px ;
+    /* font-family: kalpurushregular; */
+}
+.submit_button{
+    
+}
